@@ -1,2 +1,0 @@
-# Introduction
-cs231n
