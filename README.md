@@ -1,2 +1,2 @@
-# cs231n
-Finish all assignmnets in cs231n spring 2022
+# Introduction
+cs231n
